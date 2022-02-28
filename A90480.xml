@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Perfect occurrences faithfully communicating the chief intelligence and proceedings of the King of Scots, the King of France, and the Prince of Conde : with the affaires and designes now on foot in France, Denmarke, Sweden, and Portugal, in relation to the Parliament, Army, and Common-Wealth of England. Containing these ensuing occurrences, viz. 1 The message and proposals of his excellency the Lord General Cromwel, ... 2 A great victory obtained by the English against the Dutch; ... 3 The States of Hollands message to Vantrump; ... Licensed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90480</idno>
+            <idno type="STC">Wing P1505</idno>
+            <idno type="STC">Thomason E686_7</idno>
+            <idno type="STC">ESTC R206853</idno>
+            <idno type="EEBO-CITATION">99865953</idno>
+            <idno type="PROQUEST">99865953</idno>
+            <idno type="VID">166422</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90480)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166422)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 106:E686[7], 247:E686[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Perfect occurrences faithfully communicating the chief intelligence and proceedings of the King of Scots, the King of France, and the Prince of Conde : with the affaires and designes now on foot in France, Denmarke, Sweden, and Portugal, in relation to the Parliament, Army, and Common-Wealth of England. Containing these ensuing occurrences, viz. 1 The message and proposals of his excellency the Lord General Cromwel, ... 2 A great victory obtained by the English against the Dutch; ... 3 The States of Hollands message to Vantrump; ... Licensed according to order.</title>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "ffeb. 3 1652"; the 3 in the date has been crossed out.</note>
+                  <note>Reproductions of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166422:1" rendition="simple:additions"/>
+            <p>
+               <hi>Perfect OCCURRENCES: Faithfully communicating The chief Intelligence and Proceedings of the King of</hi> Scots, <hi>the King of</hi> France, <hi>and the Prince of</hi> Conde: <hi>With the Affaires and Deſignes now on foot in</hi> France, Denmarke; Sweden, <hi>and</hi> Portugal, <hi>in relation to the Parliament, Army, and Common-Wealth of</hi> England.</p>
+            <p>
+               <hi>Containing theſe enſuing</hi> Occurrences, <hi>viz.</hi>
+            </p>
+            <p n="1">
+               <hi>1</hi> The Meſſage and Propoſals of his Excellency the Lord General Cromwel, and the General Councel of the Army, to the Officers of the ſeveral Garriſons and Regiments of Souldiers, both in England, Scotland, and Ireland; concerning the electing and calling of a new Parliament; the removing of heavy burdens, and grievous Oppreſſions from the people; the regulating of all abuſes, both in City and Countrey; and the reſtoring of Liberty and Freedom.</p>
+            <p n="2">
+               <hi>2</hi> A great <g ref="char:V">Ʋ</g>ictory obtained by the Engliſh againſt the Dutch; the ſinking of the Pearl, the Dragon, the Temple of Solomon, and ten more; The re-taking of the Iſland of Amboyna; and the putting of man, woman, and child to the ſword.</p>
+            <p n="3">
+               <hi>3</hi> The States of Hollands Meſſage to <g ref="char:V">Ʋ</g>antrump; his advancing with his Fleet towards England; the Letters read in the Ge<g ref="char:EOLhyphen"/>neral Councel at the Hague, touching the King of Scots; And a Narrative of their preſent proceedings.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Licenſed according to Order.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London, Printed for George Horton, 1653.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166422:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:166422:2"/>
+            <head>Perfect Occurrences, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Officers of the Army having had a General Meeting at <hi>James's Weſtminſter,</hi> about the emer<g ref="char:EOLhyphen"/>gent and weighty Affairs of the Nation; in con<g ref="char:EOLhyphen"/>ſideration thereof, agreed upon a Letter to be ſent to the Officers of the ſeveral Gariſons and Regiments of ſouldiers both in <hi>England, Scotland,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land;</hi> a breviate whereof take as followeth; <hi>to wit,</hi>
+            </p>
+            <p>That after ſeveral dayes waiting at the Throne of grace, we were generally convinced, That our hearts have been looking after the things of this world, and our own privat affairs, more then the things of Jeſus Chriſt and his peo<g ref="char:EOLhyphen"/>ple. That we have been overtaken with a ſlothful ſpirit, &amp; growing weary of the work of the Lord, have been ready to ſay with <hi>Baruch, Wo is me now, for the Lord hath added grief to my ſorrow, I fainted in my ſighing, and find no reſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Jer. 45.3. That the people of this Nation are ſubject to grie<g ref="char:EOLhyphen"/>vous oppreſſions through the obſtruction of juſtice: and that the Lord might ſay to us, for whom he hath done ſuch great things in <hi>England,</hi> as he did to his Vineyard, <hi>Iſa.</hi> 5.7. <hi>And he looked for judgment, but behold oppreſſion; for righ<g ref="char:EOLhyphen"/>teouſneſs, but behold a Cry.</hi> That through the corruption of many in places of Authority ſome good men are made to ſuffer for conſcience ſake, and many bad men take incou<g ref="char:EOLhyphen"/>ragement in their licentious principles, and prophane pra<g ref="char:EOLhyphen"/>ctiſes, by reaſon whereof wickedneſs doth very much a<g ref="char:EOLhyphen"/>bound amongſt us. Upon theſe and the like conſiderations
+<pb n="4" facs="tcp:166422:3"/> we have been ſtrongly convinced, that it is a duty very much incumbent upon us to awaken our ſelves, and by all lawful wayes and meanes to endeavor the procuring of theſe following things, which have been promiſed by the Parliament, and, as we are informed, are under their pre<g ref="char:EOLhyphen"/>ſent conſideration.</p>
+            <p>Firſt, For the preventing the many inconveniencies ap<g ref="char:EOLhyphen"/>parently ariſing from the long continuance of the ſame perſons in ſupreme Authority, That there may be ſucceſ<g ref="char:EOLhyphen"/>ſive Parliaments conſiſting of men faithful to the intereſt of this Common-wealth; Men of Truth, fearing God, and hating covetouſneſs.</p>
+            <p>Secondly, That the Laws may be regulated in ſuch ſort, that what is good in them may be maintain'd, and the cor<g ref="char:EOLhyphen"/>ruptions, abuſes, delayes, vexations, unneceſſary Travels and expences, and whatſoever ſhall be found really bur<g ref="char:EOLhyphen"/>thenſome and grievous to the people, may be taken a<g ref="char:EOLhyphen"/>way</p>
+            <p>Thirdly, That liberty and protection may be given by a Law to all the truly godly though of d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fferent judgments to worſhip God peaceably, with<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> impoſing upon, or moleſting one another. And that no enc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment be thereby given to ſuch as are popiſh or proph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne in the ex<g ref="char:EOLhyphen"/>erciſe of their ſuperſtitious forms, or licentious practiſes.</p>
+            <p>Fourthly, That the Goſpel of Jeſus Chriſt may be diſ<g ref="char:EOLhyphen"/>penſed to all the p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ple of this Commonwealth, and thoſe that labour faithfully in that work, receive all due coun<g ref="char:EOLhyphen"/>tenance and encouragement.</p>
+            <div type="part">
+               <opener>
+                  <dateline>From aboard the Leopard in Leghorn mole, <date>
+                        <hi>January 7.</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>The firſt of this inſtant the great Duke was pleaſed to create himſelf in a Galley upon the water; and at his going out, the Dutch Admiral gave him 9 guns, and all the reſt
+<pb n="5" facs="tcp:166422:3"/> of his Fleet in order. At his going in we gave him two Vollies of ſmall ſhot, and 31 guns, and the reſt of our ſhips in order. The 3. of Jan. his Highneſs ſent aboard a Preſent to Cap. <hi>Badiley.</hi> The 4. here came a meſſenger from Naples to the Captain, who brought Letters, informing us, That the Elizabeth and the Warwick have taken a Dutch ſhip bound for Apulia. She was light, having in her 26 Guns. The 5 inſtant here came aboard the great Dukes brother, who is a Cardinal, and another Prince with him; and at their going away Cap. <hi>Badiley</hi> gave them 31 Guns.</p>
+               <p>This day, by Letters from our Engliſh Merchants at Aleppo, we are adver<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſed that our Engliſh Conful there reſident, has received Letters from the Engliſh Preſident in the Eaſt Indies, That at Amboyna, an Iſland now under the command of the Dutch, which they got in time paſt by bloud and treachery, there rode 9 Dutch ſhips at An<g ref="char:EOLhyphen"/>chor, which by a ſudden ſtorm were caſt away. Moſt of their men got aſhore thinking to ſave their lives; but the Natives roſe, and put them all to the ſword, and immedi<g ref="char:EOLhyphen"/>atly fell upon the Towns and Fortifications, and took them all except one caſtle. They put man, woman, &amp; child to the ſword.</p>
+               <p>The Engliſh Preſident wrote further, That he thought the Natives had gained or would quickly gain the re<g ref="char:EOLhyphen"/>maining Caſtle, and that very ſuddenly.</p>
+               <p>I ſaw a copy of the Letter that came from our Aleppo Conſul, and heard it read to Cap. Badiley aboard our ſhip. A juſt Judgment of the Almighty on the Dutch, for mur<g ref="char:EOLhyphen"/>thering ſo many Engliſh as they did formerly on that very Iſland.</p>
+               <p>We hear that Cap. <hi>Cox,</hi> with 7 ſail of Engliſh, hath had a ſharp conflict with 11 ſail of Dutch; but after four hours diſpute obtained a glorious Victory, ſunk one, and took Three.</p>
+            </div>
+            <div type="letter">
+               <pb n="6" facs="tcp:166422:4"/>
+               <head>A Letter from Holland.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THe States are very buſie about haſtning away the new Fleet, and have ſent Orders to Trump, to repair forthwith into the Channel; ſo that he is ſuddenly expected from the Iſle of Ree; he hath about <hi>70</hi> fighting ſhips, and ſome <hi>300</hi> Merchants. Prince Rupert is expected by ſome; but when he will return, no man knowes, for as yet there is no certain news of his being in any part of the world. Here are two Iriſh-men lately arrived out of Ireland, they have Letters from Charles Stuart, to countenance their ad<g ref="char:EOLhyphen"/>dreſſes to the State in the behalf of the Iriſh; yet before they deli<g ref="char:EOLhyphen"/>ver them, they have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aken the advice of the holy Fathers of their own faction, of whom there is a crew now reſiding at the Hague, as well as in other places; and their deſign (if poſſible) is to ſtir up and ingage this State to do ſomewhat againſt the Parliament of England in Ireland. On Wedneſday one of theſe Iriſh factors de<g ref="char:EOLhyphen"/>livered a Letter to their High and Mighties at the Hague. This gives juſt occaſions to ſuſpect that the Scottiſh King endeavors to hook his own intereſt into the ingagement of this Hogen State, upon an Iriſh account, ſo that if the Dutch ſhould clap in between theſe two interests, they would be daintily ingaged, and a fine bleſſing muſt follow the buſineſs.</p>
+               <closer>
+                  <dateline>
+                     <hi>Amſterdam</hi>
+                     <date>
+                        <hi>Jan. 31.</hi> ſtilo novo.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <hi>From Zealand</hi> 
+                     <date> Jan. 30.</date>
+                  </dateline>
+               </opener>
+               <p>Great brags are made here of their alliance with <hi>Denmark,</hi> giving our, That they expect great ſupplies thence for their aſſiſtance. But the Daniſh Reſident here in the <hi>Hague</hi> has made an unexpected motion to their Lordſhips for laying aſide the Treaty of Redemption, fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>merly made betwixt <hi>them</hi> and his Maſter, and reſume another way, w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ich fills their heds with jealouſie. They have likewiſe an eye ſtill upon the intercourſe betwixt <hi>England</hi> and <hi>France,</hi> ſuſpecting the worſt of this <hi>French</hi> application.</p>
+               <p>They have news alſo, That the Swede will inſiſt reſo<g ref="char:EOLhyphen"/>lutely
+<pb n="7" facs="tcp:166422:4"/> upon the maintaining of a free Trade betwixt the Hans-Towns and Sweden. But we hear that her Majeſty hath declared againſt <hi>Denmark.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From aboard the Bryar-Frigot riding in Tinmouth haven <date>the <hi>27</hi> of Januarp.</date>
+                  </dateline>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>BEing the 23 inſtant upon the North coaſt in company with a Fleet of <hi>Lyn</hi> ſhips bound hither, we fell in com<g ref="char:EOLhyphen"/>pany with a man of War belonging to <hi>Fluſhing,</hi> which had taken ſome ſmall Engliſh. Our Captain immediatly gave chaſe to this man of war, and after an houres chaſe he came up with him; who after the firing of one broad ſide, yield<g ref="char:EOLhyphen"/>ed his ſhip: After which we reſcued two of the Veſſels he had taken. We are now arrived here with the fleet and the priſe, which is a ſhip of 15 ſerviceable Iron guns, and well appointed with Sailes, Cables, and Ammunition. She ſailes well, and will make a very good man of war.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <hi>From Marſeilles</hi> 
+                     <date>Jan. 21.</date>
+                  </dateline>
+               </opener>
+               <p>Here is no great newes, but too much ſorrow: A <hi>Toulon</hi> French man of war hath taken an Engliſh ſhip laden with 370 Hogſheads of Pilchards, which is brought into this Port, where they intend to make ſale thereof; and in very few dayes there will be 4 men of war more out of <hi>Tonlon,</hi> to go in courſe, beſides thoſe ſhips and fire-ſhips deſigned for Weſt France.</p>
+               <p>From <hi>Nantes</hi> we have received advertiſements of a <hi>Lon<g ref="char:EOLhyphen"/>don</hi> ſhip of 16 guns brought thither as a prize by a Holan<g ref="char:EOLhyphen"/>der, boudd from Bilboa to the Canary Iſlands; the Maſters name being Mr. <hi>Crane.</hi>
+               </p>
+               <p>But that which doth equalize this loſs, is, the taking of a Flemiſh Veſſel, called, the Arms of Genoa, by the War<g ref="char:EOLhyphen"/>wick frigat, who carryed her to Naples. Beſides, the Pearl, the Temple of Solomon, the Dragon, and 10 more are caſt
+<pb n="8" facs="tcp:166422:5"/> away at <hi>Abarka,</hi> on the coaſt of <hi>Barbary.</hi> But the <hi>Letters</hi> from <hi>Genoa</hi> advertize, That a Flemiſh Merchant man that be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs a <hi>Letter of Mart,</hi> hath brought in an Engliſh prize which he took in <hi>Alicant-rode,</hi> riding at anchor under the command of the Caſtle, at midnight. Her name is the <hi>Ro<g ref="char:EOLhyphen"/>bert</hi> and <hi>Richard,</hi> loading 120 Tuns of Oyl, and 72 ſacks of Anniſeede, belonging to Mr. <hi>Robert Burdet.</hi> But ſupplicati<g ref="char:EOLhyphen"/>ons are made to the Duke to ſecure her, till it be determi<g ref="char:EOLhyphen"/>ned whether ſhe be lawful prize.</p>
+               <p>
+                  <hi>From Paris Feb.</hi> 5. <hi>ſtilo novo.</hi> The long expected Return of Cardinal <hi>Mazarine</hi> is now accompliſht; he was entertain<g ref="char:EOLhyphen"/>ed with abundance of Tryumph (being accompanied by the titular Duke of <hi>York</hi>) and was no ſooner entred the <hi>Lovure</hi> but the King carryed him to the Queens Lodgings, where he was received with great alacrity, and after a long conference, his Majeſty invited his Eminence to a ſtately banquet prepared on purpoſe for him, which was very ſumptuous; and during the Feaſt a famous fire-work was prepared to play, which laſted above half an hour, that the city might take notice of this joyful night of <hi>Jubilee;</hi> Yet notwithſtanding, the Citizens were <hi>al à mort;</hi> and very ob<g ref="char:EOLhyphen"/>ſervable it is, that from the Gate of their entry into the <hi>Lovure,</hi> none but a few little boys and ſome Porters, cryed</p>
+            </div>
+            <closer>Vive le Roy.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
